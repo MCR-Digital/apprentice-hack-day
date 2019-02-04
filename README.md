@@ -6,16 +6,21 @@
 
 ## Competencies, Behaviours and Knowledge units
 
-* TBC
+* TC1 logic, 
+* TC14 Applying Maths, 
+* TC3 Data, 
+* TC2 UIs, 
+* TC11 Continuous Integration/Version Control, 
+* USABs: Complexity, Influence, Autonomy
 
 ## Resources 
 
-* Slides
 * Laptops
 * Internet access
 * Post-its
-* Pens
-* Whiteboard
+* Pens / sharpies
+* Whiteboard / paper
+* Presentation Screen
 
 ## Mentors / Languages
  
@@ -25,13 +30,13 @@ Several exercises (katas and code starters) will need to be ported to required l
 
 ## Prep-work for apprentices
 
-None
+Plan an idea for the Hack - based on the information in the brief. Come ready to hit the ground running on the day, but do not wirte any code beforehand. 
 
 ### Follow-on tasks
 
 Organisation mentors should look to exercise the knowledge we’ve covered in the boot camp. Below are suggestions for tasks that would do this, but please use your own judgement to work out what to do. There is no need for anything to be returned to MD or the presenters—it’s just a learning exercise.
 
-* TBC
+* Review what was achieved on the day and look at ideas for enhancements / how it could be improved with more time. 
 
 ## Further reading / learning resources
 
@@ -41,11 +46,12 @@ Organisation mentors should look to exercise the knowledge we’ve covered in th
  
 ## Slides
 
-The slides can be viewed from the link at the top of the repository.
+N/A
 
 ## Exercises
 
-* TBC
+* Hack Participation
+* Presentation of POC
 <!--- 
 * Setting up CI?
 * Branching and creating Pull Requests?
@@ -57,53 +63,15 @@ The slides can be viewed from the link at the top of the repository.
 
 ## Planned
 
-* Working with products and Refining requirements
-* Agile + related methodologies
-* Coupling and Cohesion
-* Revisit data store - Relational vs Not
-* CRC + Diagrams / OO Design
-* Composition vs Inheritance
+9am - 12pm: Hack Coding
+12pm - 1pm: Lunch
+1pm - 4pm: Hack Coding
+4pm - 5pm: Presentations and Voting
 
-## Carried over
-
-* Test Doubles
-* Dependency Injection
-* Mocking frameworks
-* 2nd Tier of Testing Pyramid
-* Intro to Data Stores - Repo Pattern
-* Continuous Integration as a demo
-* CI practical
-* Branching / PRs
-* Trunk development vs branch development
-* How the internet works
-
-<!--- 
-
-## Continuous Integration
-
-* What is CI
-* Why is CI important
-* Demo of how CI can be applied to a project (Travis or similar against public repo)
-* CI practical—setting up Travis or similar on own repo?
-
-## More on source control
-
-* Branching
-* Pull requests
-* Trunk vs branch development
-
-# How the internet works
-
-* Hostnames, IP, DNS
-* Networking
-* Physical infrastructure
-* HTTP
-
---->
 
 # Briefing for organisation mentors
 
-* TBC
+* N/A
 
 # Working with the slides
 
