@@ -34,6 +34,8 @@ Mentors will support their team on the day of the Hack.
 
 Plan an idea for the Hack - based on the information in the brief. Come ready to hit the ground running on the day, but do not wirte any code beforehand. 
 
+https://github.com/MCR-Digital/apprentice-hack-day/blob/master/docs/Hack%20Challenge%202019.docx
+
 ### Follow-on tasks
 
 Organisation mentors should look to exercise the knowledge we’ve covered in the boot camp. Below are suggestions for tasks that would do this, but please use your own judgement to work out what to do. There is no need for anything to be returned to MD or the presenters—it’s just a learning exercise.
