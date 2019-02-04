@@ -65,9 +65,9 @@ N/A
 
 ## Planned
 
-9am - 12pm: Hack Coding
-12pm - 1pm: Lunch
-1pm - 4pm: Hack Coding
+9am - 12pm: Hack Coding\
+12pm - 1pm: Lunch\
+1pm - 4pm: Hack Coding\
 4pm - 5pm: Presentations and Voting
 
 
