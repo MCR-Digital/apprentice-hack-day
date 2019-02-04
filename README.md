@@ -24,9 +24,11 @@
 
 ## Mentors / Languages
  
-Two–three mentors required in addition to leads. These should be able to cover support for the required languages.
+One Mentor per Hack Team (five teams total).
 
-Several exercises (katas and code starters) will need to be ported to required languages.
+Mentors will be available via Slack in the run up to the event to offer advice/guidance in planning.
+
+Mentors will support their team on the day of the Hack.
 
 ## Prep-work for apprentices
 
