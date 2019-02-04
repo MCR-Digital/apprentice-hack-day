@@ -48,9 +48,20 @@ Organisation mentors should look to exercise the knowledge we’ve covered in th
 
 * TBC
  
-## Slides
+## Brief
 
-N/A
+###Context
+
+A key part of a software engineers’ role is to process data into information, to turn data points into a format that businesses can use to make informed decisions on future strategy and where to focus their efforts. In 2010 the UK Government set up a website to help people find data published into the public domain. In 2018 they introduced the “Find open data” service to make it easier to find data published by central government, local authorities and public bodies, and provided links to download the data. 
+
+###The Challenge
+
+Using data from the UK’s Open Data Initiative (https://data.gov.uk/), process a datafile of your choice to create an answer to a question that you devise. 
+ 
+###Guidance for Attendees
+* Review the types of data available on https://data.gov.uk/
+* Think about the answers that you can create for the data that would be interesting (or fun) to you, your community, or your employer
+
 
 ## Exercises
 
